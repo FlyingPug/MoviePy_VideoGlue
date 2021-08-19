@@ -1,0 +1,2 @@
+Threw all videos in the folder with main.py 
+Result will be in folder "result".
